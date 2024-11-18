@@ -9,5 +9,5 @@
 | Mata Kuliah | Grafika Komputer |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
-#Screenshot:
+# Screenshot:
 ![image](https://github.com/user-attachments/assets/6e3fff05-f28f-4834-ab55-eb785adc5222)
